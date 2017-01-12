@@ -1,2 +1,2 @@
-# sandi_sessions
-Sandi Sessions: replacing bicycles with Star Wars
+# Sandi Sessions
+Replacing bicycles metaphors with the world of Star Wars.
